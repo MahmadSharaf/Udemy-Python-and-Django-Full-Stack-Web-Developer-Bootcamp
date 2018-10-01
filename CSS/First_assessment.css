@@ -1,0 +1,29 @@
+body{
+  background-color:#5cd5e8;
+}
+h1{
+  border: thin solid;
+}
+#Opening{
+  background-color: yellow;
+}
+h2{
+  color: rgb(113, 35, 122);
+}
+#item1{
+  text-decoration: overline;
+  color: rgb(113, 35, 122);
+}
+#txt1{
+  border: thick solid gray;
+}
+#email{
+  border: solid #ad2d2b;
+}
+#Pass{
+  border: solid #ad2d2b;
+}
+.Feed{
+  border: solid dotted yellow;
+  background-color: blue;
+}
